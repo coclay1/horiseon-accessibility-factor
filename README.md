@@ -1,15 +1,15 @@
 # Horiseon Accessibility Factor Challenge
-##Description
+## Description
 This Challenge was to test our knowledge of refactoring existing code practicularly in HTML and CSS. Students are required to change the HTML code to have proper semantics, and adhere to web accessibility.
 
-Installation
+## Installation
 N/A
 
-Usage
+## Usage
 This challenge is meant to test the students knowledge of HTML and CSS semantics. Students should configure the code to use proper semantics, add alt attributes for acccessibility and tidy and code for proper use.
 
-Credits
+## Credits
 N/A
 
-License
+## License
 Please refer to the LICENSE in the repo.
