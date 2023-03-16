@@ -8,7 +8,7 @@ N/A
 ## Usage
 This challenge is meant to test the students knowledge of HTML and CSS semantics. Students should configure the code to use proper semantics, add alt attributes for acccessibility and tidy and code for proper use.
 [Horiseon](https://coclay1.github.io/horiseon-accessibility-factor/)
-![alt text](/horiseon-accessibility-factor/assets/images/horiseonimg.PNG)
+![alt text](./assets/images/horiseonimg.PNG)
 ## Credits
 N/A
 
